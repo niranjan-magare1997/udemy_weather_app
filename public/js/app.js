@@ -1,4 +1,4 @@
-console.log("Client side javascript file.");
+console.log("Client side javascript file. ");
 
 
 
